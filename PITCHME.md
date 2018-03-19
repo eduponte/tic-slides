@@ -39,7 +39,7 @@ El capitalisme, diu, ha destacat sempre per la seva capacitat d'adaptació, per�
 ## Economia neoliberal (2)
 
 - “capitalisme de vigilància” - Shoshana Zuboff
-> economia basada en l'extracció i mercantilització de dades genera una més gran concentració del poder i possibilitat de control, predicció i manipulació dels comportaments socials
+> economia basada en l'extracció i mercantilització de dades genera concentració del poder i possibilitat de control, predicció i manipulació dels comportaments socials
 
 Aquests models no només mantenen sino que a més augmenten la desigualtat (gènere, estatus, provinença ...)
 
