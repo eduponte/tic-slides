@@ -520,10 +520,14 @@ Bonus: [Codi de conducta](https://github.com/nodejs/admin/blob/master/CODE_OF_CO
 ![PPL](assets/image/ppl.png)
 
 - Copyfarleft: BY-SA-NoCapitalista |
+- No lliure |
 - No estàndar |
 - Restriccions sobre derivades (Peer production) |
 - Sense activitat recent |
 - Considerada a l'entorn XES (balanç social) |
+
+Note:
+No lliure http://www.gnu.org/licenses/license-list.html
 
 ---
 
