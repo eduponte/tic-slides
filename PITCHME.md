@@ -31,8 +31,13 @@ El capitalisme, diu, ha destacat sempre per la seva capacitat d'adaptació, per�
 
 - Sistema bast en el creixement/acumulació
 - Conquesta de nous territoris - acumulació digital
-- “free labor” o treball liure – Tiziana Terranova
+- [“free labor” o treball liure – Tiziana Terranova](http://web.mit.edu/schock/www/docs/18.2terranova.pdf)
 > El treball no remunerat de les usuàries és la font de valor econòmic en l'economia digital
+
+Note:
+Tiziana Terranova és una teòrica i activista italiana, el treball se centra en els efectes de les tecnologies de la informació a la societat a través de conceptes com el treball digital i els commons.
+
+Free labor -> Assaig MIT (2000)
 
 ---
 
@@ -42,6 +47,19 @@ El capitalisme, diu, ha destacat sempre per la seva capacitat d'adaptació, per�
 > economia basada en l'extracció i mercantilització de dades genera concentració del poder i possibilitat de control, predicció i manipulació dels comportaments socials
 
 Aquests models no només mantenen sino que a més augmenten la desigualtat (gènere, estatus, provinença ...)
+
+Note:
+Zuboff - psiologa social.
+
+En el context de la seva investigació sobre les implicacions de la tecnologia de la informació, va declarar tres lleis:
+
+1. Tot el que es pugui automatitzar serà automatitzat.
+
+2. Tot el que es pugui informar serà informat.
+
+3. Totes les aplicacions digitals que es poden utilitzar per a la vigilància i el control es faran servir per a la vigilància i el control.
+    
+El concepte de treball mediat per ordinador va ser introduït per primera vegada per Shoshana Zuboff en un document de treball del MIT de 1981, "Implicacions psicològiques i organitzatives de treballs mediats per ordinador", [2] elaborat en un article de 1982, "Nous mons de treball mediatitzat per ordinador" , [3] i es va plasmar en el llibre de 1988 En l'era de la màquina intel·ligent: El futur del treball i el poder. [4]
 
 ---
 
