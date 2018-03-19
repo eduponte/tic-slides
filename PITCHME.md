@@ -47,7 +47,7 @@ Com el financer, com l'energètic, etc
 
 - Desregulació legislativa
   - Estratègies de fets consumats
-  - Principis de mercat, abans que drets fonamentals
+  - Marc liberal: Principis de mercat, abans que drets fonamentals
 - Desconeixement polític i jurídic
 
 Note:
