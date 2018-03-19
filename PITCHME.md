@@ -29,19 +29,16 @@ El capitalisme, diu, ha destacat sempre per la seva capacitat d'adaptació, per�
 
 ## Economia neoliberal
 
+<em style="font-size: 30px">
 - Sistema bast en el creixement/acumulació
 - Conquesta de nous territoris - acumulació digital
 - “free labor” o treball liure – Tiziana Terranova
 > El treball no remunerat de les usuàries és la font de valor econòmic en l'economia digital
-
----
-
-## Economia neoliberal
-
 - “capitalisme de vigilància” - Shoshana Zuboff
 > economia basada en l'extracció i mercantilització de dades genera una més gran concentració del poder i possibilitat de control, predicció i manipulació dels comportaments socials
 
 Aquests models no només mantenen sino que a més augmenten la desigualtat (gènere, estatus, provinença ...)
+</em>
 
 ---
 
