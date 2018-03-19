@@ -78,7 +78,10 @@ Possessió de la tecnologia que dominarà la vida en el futur proper
 </em>
 
 Note:
+Centrat en Inet www.
+
 Barreres als competidors, falta de diversitat.
+
 2 mites: anuncis com a únic model de negoci, i que és massa tard per canviar com operen les plataformes
 
 ---
