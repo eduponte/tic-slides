@@ -328,7 +328,7 @@ i compartir-ho amb la comunitat.
 
 ---
 
-![Marta Guadalupe](assets/image/agroecology.jpg)
+![Marta Guadalupe Rivera](assets/image/agroecology.jpg)
 
 <em style="font-size: 20px">
 Text [@CatAgroeco](https://twitter.com/CatAgroeco) per [@CCCBLab](https://twitter.com/CCCBLab). Imatge [Harvest Time de Robert French](http://catalogue.nli.ie/Record/vtls000044306/Holdings), domini públic.
@@ -361,6 +361,9 @@ Les llicències són una eina que emmiralla el compromís amb el Procomú i el r
 Exemples: [Nodejs](https://github.com/nodejs/node/blob/master/LICENSE), [Reddit](https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/)
 
 Bonus: [Codi de conducta](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md), [guia de col·laboració](https://github.com/nodejs/node/blob/master/COLLABORATOR_GUIDE.md)
+
+Note:
+Veure la tecnologia com a font de vida en comptes de veure-la com un recurs
 
 ---
 
