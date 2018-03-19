@@ -165,10 +165,18 @@ Stores: retirada d'alternatives
 - [Laboratoris urbans (Google)](https://amp.theguardian.com/commentisfree/2017/oct/24/google-alphabet-sidewalk-labs-toronto)
 - [IA per drones militars (Google)](https://static.theintercept.com/amp/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project.html)
 - [Recopilació d'ubicació en Android](https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/)
-- [Vulnerabilitat a atacs](https://es.wikipedia.org/wiki/Ataques_ransomware_WannaCry)
+- [Vulnerabilitat a atacs (WannaCry)](https://es.wikipedia.org/wiki/Ataques_ransomware_WannaCry)
 
 Note:
 Més enllà de vulneracions de drets en magatzems d'Amazon
+
+Amazon Go + .com
+
+Sidewalk Labs (g): redeveloping a waterfront district called Quayside
+
+Google Is Quietly Providing AI Technology for Drone Strike Targeting Project
+
+Wannacry: ransomware. Gobiernos, Telefonica, Interior Rússia...
 
 ---
 
@@ -182,7 +190,13 @@ Més enllà de vulneracions de drets en magatzems d'Amazon
 - [Historial de trucades a la xarxa social (Facebook)](https://twitter.com/d3d0c3d/status/897110250758819848)
 
 Note:
+America’s Future Underclass are being Monetized by Walmart and Amazon
+
 Censura: un clàssic
+
+Pols objectiu: Patents per algoritmes encara no desenvolupats (no és obligatori que ho estiguin). Establir contactes/relacions no explicitades.
+
+“¿Quién puede buscarte con el número de teléfono que proporcionaste?”
 
 ---
 
