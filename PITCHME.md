@@ -223,7 +223,7 @@ Wannacry: ransomware. Gobiernos, Telefonica, Interior Rússia...
 - [Seguiment de càmera per pols en l'objectiu (Facebook)](https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620)
 - [OSINT (Open Source Intelligence)](https://en.wikipedia.org/wiki/Open-source_intelligence)
 - [Filtració de dades personals: núm de telèfon (Facebook)](https://es.gizmodo.com/por-que-deberias-borrar-tu-numero-de-telefono-de-facebo-1820327397)
-- [Historial de trucades a la xarxa social (Facebook)](https://twitter.com/d3d0c3d/status/897110250758819848)
+- [Historial de trucades a la xarxa social (Facebook)](https://twitter.com/dylanmckaynz/status/976368845635035138)
 
 Note:
 America’s Future Underclass are being Monetized by Walmart and Amazon
